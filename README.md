@@ -26,7 +26,7 @@ The following data preprocessing steps were taken sequentially, then cross valid
 
 ## Selection of Data Preprocessing Method
 1. Remove Nulls
-  1. Remove all nulls using '<dropna>' the function `<do_nulls(ecoli_orig,all_x=True)>` 
+  1. Remove all nulls using dropna the function `<do_nulls(ecoli_orig,all_x=True)>` 
 3.  
 
 ## Model Selection
